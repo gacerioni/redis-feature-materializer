@@ -1,0 +1,6 @@
+results/
+__pycache__/
+*.pyc
+contract_aws.json
+.DS_Store
+node_modules/
