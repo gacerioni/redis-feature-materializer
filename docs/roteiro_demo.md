@@ -41,7 +41,7 @@ Narrativa do passo 4: "970, não 1000. O loader entendeu a semântica do offline
 
 ## Ato 2: o mesmo job rodando no AWS Glue de verdade
 
-Pra público que vive de Glue (caso Itaú), rode na sua conta AWS e mostre pelo console:
+Pra público que vive de Glue (bancos e plataformas de ML em geral), rode na sua conta AWS e mostre pelo console:
 
 ```bash
 REDIS_HOST=<host> REDIS_PORT=<porta> REDIS_PASSWORD=<senha> ./deploy_glue_aws.sh run
