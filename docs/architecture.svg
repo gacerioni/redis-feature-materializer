@@ -14,9 +14,9 @@
   <rect x="1490" y="40" width="250" height="40" rx="6" fill="#FF4438"/>
   <text x="1615" y="66" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Redis</text>
 
-  <!-- ============ LEFT: Itau AWS account ============ -->
+  <!-- ============ LEFT: Team AWS account ============ -->
   <rect x="40" y="130" width="1030" height="870" rx="14" fill="#FAFBFC" stroke="#C8CFD4" stroke-width="2"/>
-  <text x="70" y="168" font-size="22" font-weight="bold" fill="#091A23">Conta AWS do time (Ita&#250;) &#183; sa-east-1</text>
+  <text x="70" y="168" font-size="22" font-weight="bold" fill="#091A23">Conta AWS do time &#183; sa-east-1</text>
 
   <!-- VPC -->
   <rect x="66" y="190" width="978" height="784" rx="12" fill="#FFFFFF" stroke="#8AA0AC" stroke-width="2" stroke-dasharray="8 5"/>
@@ -24,7 +24,7 @@
 
   <!-- ML Platform -->
   <rect x="100" y="248" width="400" height="112" rx="10" fill="#EEF3F6" stroke="#8AA0AC" stroke-width="1.5"/>
-  <text x="120" y="282" font-size="19" font-weight="bold" fill="#091A23">Plataforma de ML (Ita&#250;)</text>
+  <text x="120" y="282" font-size="19" font-weight="bold" fill="#091A23">Plataforma de ML</text>
   <text x="120" y="310" font-size="15" fill="#3D4F5A">Registro de feature groups, versionamento,</text>
   <text x="120" y="332" font-size="15" fill="#3D4F5A">metadados e contrato (YAML)</text>
 
